@@ -9,4 +9,3 @@ def focus_timer(minutes):
         time.sleep(1)
         seconds -= 1
     print("Time's up! Good job focusing."）
-    
