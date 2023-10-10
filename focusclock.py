@@ -8,4 +8,4 @@ def focus_timer(minutes):
         print(f"Remaining time: {seconds // 60} minutes {seconds % 60} seconds")
         time.sleep(1)
         seconds -= 1
-    print("Time's up! Good job focusing."）
+    print("Time's up! Good job focusing.")
