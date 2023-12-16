@@ -9,5 +9,5 @@ def focus_timer(minutes):
 
     
         print("Time's up! Good job focusing.okokokok")
-            print("Time's up! Good job focusing.okokokok")
-                print("Time's up! Good job focusing.okokokok")
+
+
